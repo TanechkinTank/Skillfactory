@@ -1,0 +1,61 @@
+.header{
+    font-family: 'Open Sans';
+    color: white;
+    background: #999999;
+    padding: 10px;
+    margin: 20px;
+   
+}
+
+.navigation{
+    float: right;
+    height: 100%;
+}
+ 
+.navigation a{
+    height: 100%;
+    display: table;
+    text-decoration: none;
+    float: left;
+    padding: 0px 20px;
+    background-color: #999999;
+}
+ 
+.navigation a li{
+    vertical-align: middle;
+    display: table-cell;
+    font-size: 20px;
+    color: white;
+}
+ 
+.navigation a:hover{
+    background-color: #ffff66;
+    color: #101010;
+}
+
+.content{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-size: 14px;
+    margin: 50px 150px 150px 150px;
+}
+
+.content-about{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-size: 14px;
+    margin: 50px 150px 150px 150px;
+}
+
+.contacts{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-size: 14px;
+    margin: 50px 50px 50px 50px;
+}
+
+
+.image {
+    float: left;
+    margin-right: 25px; 
+}
